@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Algorithm, Redux Observable, Typescript
 
-**🐙[Github: https://github.com/quino0627](https://github.com/quino0627)**
-
 **📔[Blog: https://bogmong.tistory.com](https://bogmong.tistory.com)**
 
 **🚀[RocketPunch: https://www.rocketpunch.com/@dongwook627](https://www.rocketpunch.com/@dongwook627)**
