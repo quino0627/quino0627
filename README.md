@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## Take a Look!
-**notion link: https://www.notion.so/DongWook-Song-4207c8561e2d40ddb9d69241101f613d**
+#### Take a Look! Notion link: https://www.notion.so/DongWook-Song-4207c8561e2d40ddb9d69241101f613d**
 <!--
 **quino0627/quino0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
